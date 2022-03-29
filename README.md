@@ -30,8 +30,8 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
-  ![Debian](https://img.shields.io/badge/-Debian-333333?style=flat&logo=Debian)
-  ![Redhat](https://img.shields.io/badge/-Redhat-333333?style=flat&logo=Redhat)
+  ![Debian](https://img.shields.io/badge/-Debian-333333?style=flat&logo=Debian&logoColor=FF6347)
+  ![Redhat](https://img.shields.io/badge/-Redhat-333333?style=flat&logo=Redhat&logoColor=FF0000)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 - 🖥 &nbsp;
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
