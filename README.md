@@ -31,7 +31,7 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Debian](https://img.shields.io/badge/-Debian-333333?style=flat&logo=Debian)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
+  ![Redhat](https://img.shields.io/badge/-Redhat-333333?style=flat&logo=Redhat)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 - 🖥 &nbsp;
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
