@@ -15,6 +15,7 @@
   ![Php](https://img.shields.io/badge/-Php-333333?style=flat&logo=Php&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=Rust&logoColor=276DC3)
+  ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=Solidity)
 - 🌐 &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
