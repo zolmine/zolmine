@@ -6,7 +6,6 @@
 - 🎓 &nbsp; I m a blockchain developer and a backend developer.
 - 💼 &nbsp; Working as a Freelancer Business Development Associate.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
