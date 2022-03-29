@@ -36,7 +36,7 @@
 - 🖥 &nbsp;
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
 
 <br/>
 
