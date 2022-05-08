@@ -3,9 +3,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; I m a blockchain developer and a backend developer.
-- 💼 &nbsp; Working as a Freelancer Business Development Associate.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 🎓 &nbsp; I m a Blockchain and Backend Developer .
+- 💼 &nbsp; Working as a BlockChain Developer at lightfunnels.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and BlockCahin Develpement.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
