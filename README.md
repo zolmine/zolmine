@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; I m a Blockchain and Backend Developer .
-- 💼 &nbsp; Working as a BlockChain Developer at lightfunnels.
+- 💼 &nbsp; Working as a Software Engineer at The TechBay.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and BlockCahin Develpement.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
